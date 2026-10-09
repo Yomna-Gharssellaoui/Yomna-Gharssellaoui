@@ -1,186 +1,99 @@
-```markdown
-<div align="center">
-
 # 🌷 Hi, I'm Yomna Gharssellaoui!
 
-### Software Engineering Student @ ESPRIT
+### 💻 Software Engineering Student @ ESPRIT
 
-💗 Full-Stack Development · Backend Engineering · Automation
+Full-Stack Development · Backend Engineering · Automation
 
 *Turning ideas into useful software, one project at a time.* ✨
 
-[![GitHub](https://img.shields.io/badge/GitHub-Yomna--Gharssellaoui-24292f?style=for-the-badge&logo=github)](https://github.com/Yomna-Gharssellaoui)
-[![Email](https://img.shields.io/badge/Email-Contact%20me-ea8aaa?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yomna.gharssellaoui@esprit.tn)
+🌍 Tunisia · Open to suitable opportunities in Europe
 
-🌸 **Looking for a PFE internship | January–February 2027**
-📍 Tunisia · Open to suitable opportunities in Europe
+🎯 **Seeking a PFE internship | January–February 2027**
 
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-Yomna--Gharssellaoui-181717?style=for-the-badge&logo=github)](https://github.com/Yomna-Gharssellaoui)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yomna.gharssellaoui@esprit.tn)
 
 ---
 
-## 🎀 About Me
+## 🌸 About Me
 
-Hello! I'm Yomna, a final-year Software Engineering student at **ESPRIT, Tunisia**.
+Hello! I'm a final-year Software Engineering student at **ESPRIT, Tunisia**.
 
-I'm interested in building web applications, developing backend services, and using technology to solve practical problems.
+I'm interested in building web applications, developing backend services, and exploring workflow automation.
 
-💻 What I'm interested in:
 - 🌐 Full-stack web development
-- ⚙️ Backend engineering and APIs
-- 🤖 Workflow automation and RPA
-- 🚀 DevOps and software delivery
-- 🧩 Enterprise applications and SaaS platforms
+- ⚙️ Backend development and APIs
+- 🤖 Workflow automation
+- 📚 Continuous learning and collaborative projects
 
-💼 I completed a **two-month engineering internship in automation**, gaining practical experience in an engineering work environment.
+I also completed a **two-month engineering internship in automation**.
 
-🎯 My next goal is a **4–6 month end-of-studies internship (PFE)**, ideally with a pre-hiring opportunity.
+## 🛠️ Technologies & Tools
 
----
-
-## 🛠️ My Tech Stack
-
-### 🌸 Frontend
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=323330)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### 💜 Backend & Databases
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
-### ⚙️ Automation & DevOps
+## 🚀 Featured Projects
 
-![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### 🧾 Multitenant Business Management SaaS
 
----
+**Repository:** [FullStack-JS-Project-4TWIN-ESPRIT](https://github.com/Yomna-Gharssellaoui/FullStack-JS-Project-4TWIN-ESPRIT)
 
-## 💻 Featured Projects
+A multitenant business management platform focused on invoicing, expense tracking, team collaboration, client portals, and analytics, with Tunisian regulatory considerations.
 
-### 🌷 1. BizFlow — Business Management SaaS
+### 💬 IvoiceChat Backend
 
-A multitenant business-management platform designed to help businesses manage their operations.
+**Repository:** [ivoicechat-back](https://github.com/Yomna-Gharssellaoui/ivoicechat-back)
 
-✨ Project areas:
-- Business and client management
-- Invoice and expense tracking
-- Team collaboration and client portals
-- Financial analytics
+A Python repository. More project details will be added as the functionality is documented.
 
-🧰 **Stack:** React · Vite · NestJS · TypeScript · PostgreSQL · TypeORM
+### 🏢 Enterprise Service
 
-🔗 [Explore the repository](https://github.com/Yomna-Gharssellaoui/FullStack-JS-Project-4TWIN-ESPRIT)
+**Repository:** [entreprise-service](https://github.com/Yomna-Gharssellaoui/entreprise-service)
 
----
+A Java project repository.
 
-### ⚙️ 2. Invoice Workflow Automation
+### 💚 Esprit-Care
 
-Practical automation experience gained during my two-month engineering internship.
+**Repository:** [espritcare](https://github.com/Yomna-Gharssellaoui/espritcare)
 
-🎯 **Focus:** Automating invoice-processing workflows to reduce manual effort.
+A web platform designed to improve communication and support between ESPRIT students and the student support unit.
 
-🧰 **Area:** Workflow automation
+### ⚙️ DevOps
 
-> Specific tools and implemented workflows can be added as the project details are confirmed.
+**Repository:** [devops](https://github.com/Yomna-Gharssellaoui/devops)
 
----
+A Java repository for development and DevOps-related work.
 
-### 🧩 3. Enterprise Service
+### 🧩 NestJS Project
 
-A Java repository in an enterprise application context.
+**Repository:** [YomnaGharssellaouiNest](https://github.com/Yomna-Gharssellaoui/YomnaGharssellaouiNest)
 
-🧰 **Verified repository language:** Java
-
-🔗 [Explore the repository](https://github.com/Yomna-Gharssellaoui/entreprise-service)
+A repository using NestJS and TypeScript.
 
 ---
 
-### 💗 4. ESPRIT CARE
+## 📊 GitHub Stats
 
-A student-support web platform intended to improve communication between ESPRIT students and the school's listening-support unit.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yomna-Gharssellaoui&show_icons=true&hide_border=true&theme=rose)
 
-🧰 **Verified repository language:** HTML
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yomna-Gharssellaoui&layout=compact&hide_border=true&theme=rose)
 
-🔗 [Explore the repository](https://github.com/Yomna-Gharssellaoui/espritcare)
-
----
-
-### 🐍 5. iVoiceChat Backend
-
-A Python backend project.
-
-🧰 **Verified repository language:** Python
-
-🔗 [Explore the repository](https://github.com/Yomna-Gharssellaoui/ivoicechat-back)
+*GitHub statistics are generated dynamically and may take time to load.*
 
 ---
 
-### 🚀 6. DevOps Project
-
-A Java repository that I can showcase alongside verified deployment and pipeline configurations.
-
-🧰 **Verified repository language:** Java
-
-🔗 [Explore the repository](https://github.com/Yomna-Gharssellaoui/devops)
-
----
-
-## 📊 My GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yomna-Gharssellaoui&show_icons=true&hide_border=true&bg_color=FFF8FB&title_color=C76B91&icon_color=D98BAD&text_color=514451)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yomna-Gharssellaoui&layout=compact&hide_border=true&bg_color=FFF8FB&title_color=C76B91&text_color=514451)
-
-</div>
-
-*These cards retrieve GitHub activity and language information dynamically. Language percentages reflect repository code, not proficiency.*
-
----
-
-## 🌱 Currently Looking For
-
-I'm preparing for my next professional step and looking for:
-
-- 🎓 A **PFE / end-of-studies internship**
-- 📅 Preferred start: **January–February 2027**
-- ⏳ Preferred duration: **4–6 months**
-- 💼 Ideally, an opportunity with potential pre-hiring
-- 🌍 Relevant opportunities in Tunisia and Europe
-
-I'm especially interested in full-stack development, backend engineering, enterprise software, and automation.
-
----
-
-## 💌 Let's Connect!
-
-I'd love to connect with developers, engineering teams, and recruiters working on meaningful software projects.
+## 📬 Contact
 
 📧 **Email:** [Yomna.gharssellaoui@esprit.tn](mailto:Yomna.gharssellaoui@esprit.tn)
 
-💻 **GitHub:** [@Yomna-Gharssellaoui](https://github.com/Yomna-Gharssellaoui)
+💼 **GitHub:** [@Yomna-Gharssellaoui](https://github.com/Yomna-Gharssellaoui)
 
 ---
 
-<div align="center">
-
-### ✨ Thanks for stopping by! ✨
-
-*Building, learning, and growing — one commit at a time.* 🌷
-
-</div>
-```
+⭐ Thanks for visiting my profile! Feel free to explore my repositories.
